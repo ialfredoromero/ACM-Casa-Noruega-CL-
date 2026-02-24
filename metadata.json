@@ -1,0 +1,7 @@
+{
+  "name": "RE Central - Informe Interactivo Jr. Noruega",
+  "description": "Plataforma interactiva de análisis comparativo de mercado (ACM) para la propiedad en Jr. Noruega, Cercado de Lima. Incluye simulador de exposición y análisis estratégico Porter.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
